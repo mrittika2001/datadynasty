@@ -1,1 +1,3 @@
-# Project Repo for IBM Internship
+# Project Repository for IBM Internship
+## Description
+A loan prediction model is a valuable tool in the financial sector that utilizes data analytics and machine learning techniques to assess the creditworthiness of individuals or businesses applying for loans. The primary goal of this model is to predict whether a loan applicant is likely to repay the borrowed amount on time, based on various relevant factors. By analyzing historical loan data, applicant information, and other variables, the model can make informed predictions, thereby assisting lenders in making more accurate and prudent lending decisions.
