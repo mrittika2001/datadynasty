@@ -22,3 +22,4 @@ Here is a more detailed explanation of each of the steps we took:
 The Results are given in below images
 
 ![datadynasty](output/Screenshot 2023-08-02 193148.png)
+<img src = "output/Screenshot 2023-08-02 193148.png"></img>
