@@ -23,3 +23,6 @@ The Results are given in below images
 
 
 <img src = "output/Screenshot 2023-08-02 193148.png" alt='output'></img>
+<img src = "output/Screenshot 2023-08-02 193414.png" alt='output'></img>
+<img src = "output/Screenshot 2023-08-02 193455.png" alt='output'></img>
+<img src = "output/Screenshot 2023-08-02 193503.png" alt='output'></img>
