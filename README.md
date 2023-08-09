@@ -21,4 +21,4 @@ Here is a more detailed explanation of each of the steps we took:
 
 The Results are given in below images
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Alt text](output/Screenshot 2023-08-02 193148.png "a title")
